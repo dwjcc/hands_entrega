@@ -1,0 +1,68 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "aaa",
+            "cwd": "hands_on_flutter-main\\aaa",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "aaa (profile mode)",
+            "cwd": "hands_on_flutter-main\\aaa",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "aaa (release mode)",
+            "cwd": "hands_on_flutter-main\\aaa",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "handson",
+            "cwd": "hands_on_flutter-main\\handson",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "handson (profile mode)",
+            "cwd": "hands_on_flutter-main\\handson",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "handson (release mode)",
+            "cwd": "hands_on_flutter-main\\handson",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "meu_primeiro_app",
+            "cwd": "hands_on_flutter-main\\meu_primeiro_app\\meu_primeiro_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "meu_primeiro_app (profile mode)",
+            "cwd": "hands_on_flutter-main\\meu_primeiro_app\\meu_primeiro_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "meu_primeiro_app (release mode)",
+            "cwd": "hands_on_flutter-main\\meu_primeiro_app\\meu_primeiro_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
